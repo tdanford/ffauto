@@ -3,6 +3,8 @@ ffauto
 
 Tools for managing my fantasy football draft and team.
 
+I wrote most of this in ~40 minutes before my first ever draft, so there are zero comments and zero interface.  It's a standalone program that's run from the command-line and works off of static text files (for now). 
+
 Right now, the only code present here is some rudimentary stuff for managing a draft.  It's all under the package
     tdanford.ffauto.draft
 
@@ -14,3 +16,9 @@ The main method to run is PlayerList.main(), and it requires two input files:
 
 An example of the first file, gleaned from the ESPN.com ff site, is given in the src/main/resources folder.
 
+Known Issues / To Do
+====================
+
+* Handle bye-weeks for players
+* Strategic decisions based on previous choices by other players
+* Update the model (move to a sampling/stochastic system?) for the other players draft choices
