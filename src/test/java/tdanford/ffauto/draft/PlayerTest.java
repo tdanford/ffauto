@@ -1,21 +1,14 @@
 package tdanford.ffauto.draft;
 
-import static org.junit.Assert.*;
-
-import org.junit.*;
-import org.junit.rules.ExpectedException;
+import static org.testng.Assert.*;
+import org.testng.annotations.*;
 
 public class PlayerTest {
 	
 	public static final double eps = 0.000001;
 	
-	@Rule
-	public ExpectedException exception = ExpectedException.none();
-
-	@Test
+	@Test(expectedExceptions = IllegalArgumentException.class)
 	public void testThrowsExceptionIfNullLine() { 
-		exception.expect(IllegalArgumentException.class);
-		exception.expectMessage("Null line string");
 		new Player(null);
 	}
 	
@@ -34,6 +27,6 @@ public class PlayerTest {
 	@Test
 	public void testFutureValueParse() { 
 		Player p = new Player("1\tFoo D. Bar, Hou RB\t5.1");
-		assertTrue(String.format("p.futureValue should be 5.1"), p.futureValue-5.1 <= eps);
+		assertTrue(p.futureValue-5.1 <= eps, String.format("p.futureValue should be 5.1"));
 	}
 }
