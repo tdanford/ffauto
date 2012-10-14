@@ -13,20 +13,16 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
-
 	<build>
 		<finalName>draft</finalName>
-
-		<plugins>
-		</plugins>
 	</build>
 
 	<profiles>
 	</profiles>
 
 	<dependencies>
-		<!-- Testing -->
 
+		<!-- Testing -->
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
