@@ -3,6 +3,9 @@ package tdanford.ffauto.draft;
 import static org.testng.Assert.*;
 import org.testng.annotations.*;
 
+/**
+ * User: tdanford
+ */
 public class PlayerTest {
 	
 	public static final double eps = 0.000001;
