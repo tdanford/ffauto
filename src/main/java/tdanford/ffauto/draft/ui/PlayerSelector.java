@@ -85,30 +85,71 @@ public class PlayerSelector extends JPanel {
 
             @Override
             public void keyPressed(KeyEvent keyEvent) {
-                if(keyEvent.getKeyChar() == '\n') {
-                    final String name = listModel.getTopName();
-                    System.out.println(String.format("SELECTED: %s", name));
+                if(keyEvent.getKeyChar() == '\n') {  // On 'return', select the top name in the box.
                     SwingUtilities.invokeLater(new Runnable() {
                         public void run() {
-                            for(NameSelectionListener listener : nameListeners) {
-                                listener.nameSelected(name);
-                            }
+                            selectName();
                         }});
-
-                    keyEvent.consume();
+                    keyEvent.consume(); // consume the event, so that we don't put a newline in the text area.
                 }
             }
 
             @Override
             public void keyTyped(KeyEvent keyEvent) {
-
-                SwingUtilities.invokeLater(new Runnable() { public void run() { listModel.update(); } });
+                SwingUtilities.invokeLater(new Runnable() { public void run() { updateNames(); } });
             }
         });
     }
 
+    public void setText(final String name) {
+        try {
+            SwingUtilities.invokeAndWait(new Runnable() {
+                public void run() {
+                    // We can't interact with the JTextArea except in the Swing thread...
+                    nameArea.setText(name);
+                }
+            });
 
-    private class NameListModel implements ListModel {
+            // We don't update the selected names, unless we were able to successfully
+            // update the JTextArea text field (i.e. an exception wasn't thrown).
+            updateNames();
+
+        } catch (InterruptedException e) {
+            e.printStackTrace(System.err);
+        } catch (InvocationTargetException e) {
+            e.printStackTrace(System.err);
+        }
+    }
+
+    public void selectName() {
+        String name = listModel.getTopName();
+        System.out.println(String.format("SELECTED: %s", name));
+        for(NameSelectionListener listener : nameListeners) {
+            listener.nameSelected(name);
+        }
+    }
+
+    public void updateNames() {
+        listModel.update();
+    }
+
+    public int getNumTotalPlayers() { return players.size(); }
+    public int getNumAvailablePlayers() { return listModel.getSize(); }
+    public String getAvailablePlayer(int i) { return (String)listModel.getElementAt(i); }
+
+    public void addNameSelectionListener(NameSelectionListener listener) {
+        nameListeners.add(listener);
+    }
+
+    public void removeNameSelectionListener(NameSelectionListener listener) {
+        nameListeners.remove(listener);
+    }
+
+    /**
+     * Models the list of remaining names, and implements (case-insensitive) name prefix
+     * searching.
+     */
+    public class NameListModel implements ListModel {
 
         private ArrayList<String> names;
         private ArrayList<ListDataListener> listeners;
