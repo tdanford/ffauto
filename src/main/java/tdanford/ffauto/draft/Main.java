@@ -14,7 +14,7 @@ public class Main {
         /*
         PlayerList pl = new PlayerList();
         int nextDraft = pl.getRoster().size() % 2 == 0 ? 6 : 16;
-        Draft d = new Draft(pl.getRoster());
+        DraftHistory d = new DraftHistory(pl.getRoster());
         Comparator<Player> c = d.getComparator(nextDraft, pl.getPlayers());
         Player[] parray = pl.rankPlayers(c);
         for(int i = 0; i < parray.length && i < 10; i++) {

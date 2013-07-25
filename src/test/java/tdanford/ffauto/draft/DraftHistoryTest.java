@@ -7,18 +7,18 @@ import org.testng.annotations.*;
  * User: tdanford
  * Date: 7/25/13
  */
-public class DraftTest {
+public class DraftHistoryTest {
 
     @Test
     public void testGetManager() {
         Manager m = new Manager("Timothy");
-        Draft d = new Draft(m, new Roster());
+        DraftHistory d = new DraftHistory(m, new Roster());
         assertEquals(d.getManager(), m);
     }
 
     @Test
     public void testGetDraftOrder() {
-        Draft d = new Draft(new Manager("Timothy"), new Roster());
+        DraftHistory d = new DraftHistory(new Manager("Timothy"), new Roster());
         Player p1 = new Player("Test Player1", Position.QB, 1.0);
         Player p2 = new Player("Test Player2", Position.RB, 2.0);
 

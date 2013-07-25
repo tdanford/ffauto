@@ -2,13 +2,13 @@ package tdanford.ffauto.draft;
 
 import java.util.*;
 
-public class Draft {
+public class DraftHistory {
 
     private Manager manager;
 	private Roster roster;
     private LinkedList<Player> draftList;
 	
-	public Draft(Manager m, Roster r) {
+	public DraftHistory(Manager m, Roster r) {
         this.manager = m;
 		roster = r;
         draftList = new LinkedList<Player>();
