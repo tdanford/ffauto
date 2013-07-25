@@ -4,14 +4,22 @@ import java.util.*;
 
 public class Draft {
 
+    private Manager manager;
 	private Roster roster;
+    private LinkedList<Player> draftOrder;
 	
-	public Draft(Roster r) {
+	public Draft(Manager m, Roster r) {
+        this.manager = m;
 		roster = r;
+        draftOrder = new LinkedList<Player>();
 	}
+
+    public Collection<Player> getDraftOrder() { return draftOrder; }
+    public Manager getManager() { return manager; }
 	
 	public void addPlayer(Player p) { 
 		roster.players.get(p.position).add(p);
+        draftOrder.addLast(p);
 	}
 	
 	public double futureValue(Roster r, Player p) {
