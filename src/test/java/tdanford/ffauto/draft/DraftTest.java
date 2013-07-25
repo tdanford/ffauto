@@ -25,7 +25,7 @@ public class DraftTest {
         d.addPlayer(p1);
         d.addPlayer(p2);
 
-        Player[] dorder = d.getDraftOrder().toArray(new Player[0]);
+        Player[] dorder = d.getDraftList().toArray(new Player[0]);
         assertEquals(dorder.length, 2);
         assertEquals(dorder[0], p1);
         assertEquals(dorder[1], p2);
