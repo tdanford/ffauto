@@ -6,6 +6,7 @@ import java.util.*;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
+import javax.swing.border.TitledBorder;
 import javax.swing.event.*;
 
 import tdanford.ffauto.draft.*;
@@ -47,7 +48,7 @@ public class PlayerSelector extends JPanel {
     }
 
     private String currentRestriction;
-    private Map<String,Player> players;
+    private TreeSet<NameSelectable> players;
     private NameListModel listModel;
     private JList playerList;
     private JTextArea nameArea;
@@ -60,9 +61,9 @@ public class PlayerSelector extends JPanel {
         /*
         Setup internal data structures
          */
-        players = new TreeMap<String,Player>();
+        players = new TreeSet<NameSelectable>();
         for(Player p : ps) {
-            players.put(p.getName(), p);
+            players.add(new NameSelectable(p));
         }
         currentRestriction = "";
         nameListeners = new ArrayList<NameSelectionListener>();
@@ -75,6 +76,7 @@ public class PlayerSelector extends JPanel {
         listModel = new NameListModel();
         playerList = new JList(listModel);
         nameArea = new JTextArea();
+        nameArea.setBorder(new TitledBorder("Type a name"));
 
         nameArea.setColumns(50);
 
@@ -122,10 +124,10 @@ public class PlayerSelector extends JPanel {
     }
 
     public void selectName() {
-        String name = listModel.getTopName();
-        System.out.println(String.format("SELECTED: %s", name));
+        NameSelectable sel = listModel.getTopName();
+        System.out.println(String.format("SELECTED: %s", sel.player.getName()));
         for(NameSelectionListener listener : nameListeners) {
-            listener.nameSelected(name);
+            listener.nameSelected(sel.player);
         }
     }
 
@@ -135,7 +137,10 @@ public class PlayerSelector extends JPanel {
 
     public int getNumTotalPlayers() { return players.size(); }
     public int getNumAvailablePlayers() { return listModel.getSize(); }
-    public String getAvailablePlayer(int i) { return (String)listModel.getElementAt(i); }
+
+    public Player getAvailablePlayer(int i) {
+        return ((NameSelectable)listModel.getElementAt(i)).player;
+    }
 
     public void addNameSelectionListener(NameSelectionListener listener) {
         nameListeners.add(listener);
@@ -151,32 +156,32 @@ public class PlayerSelector extends JPanel {
      */
     public class NameListModel implements ListModel {
 
-        private ArrayList<String> names;
+        private ArrayList<NameSelectable> names;
         private ArrayList<ListDataListener> listeners;
 
         public NameListModel() {
-            names = new ArrayList<String>();
+            names = new ArrayList<NameSelectable>();
             listeners = new ArrayList<ListDataListener>();
-            for(String name : players.keySet()) {
-                names.add(name);
+            for(NameSelectable sel : players) {
+                names.add(sel);
             }
         }
 
-        public String getTopName() { return names.get(0); }
+        public NameSelectable getTopName() { return names.get(0); }
 
         public void update() {
-            update(nameArea.getText());
+            update(nameArea.getText().toLowerCase());
         }
 
         public void update(String text) {
-            System.out.println(String.format("updating: \"%s\"", text));
+            //System.out.println(String.format("updating: \"%s\"", text));
             ListDataEvent removed = new ListDataEvent(NameListModel.this, ListDataEvent.CONTENTS_CHANGED, 0, names.size());
             names.clear();
             fireEvent(removed);
 
-            for(String name : players.keySet()) {
-                if(name.startsWith(text) || name.toLowerCase().startsWith(text)) {
-                    names.add(name);
+            for(NameSelectable sel : players) {
+                if(sel.matches(text)) {
+                    names.add(sel);
                 }
             }
 
@@ -221,7 +226,37 @@ public class PlayerSelector extends JPanel {
         }
     }
 
+    public static class NameSelectable implements Comparable<NameSelectable> {
+        public Player player;
+        public String first, last;
+
+        public NameSelectable(Player p) {
+            this.player = p;
+            String[] array = player.getName().split("\\s+");
+            first = array[0].toLowerCase();
+            last = array[1].toLowerCase();
+        }
+
+        public int hashCode() { return player.hashCode(); }
+
+        public boolean matches(String matcher) {
+            return player.getName().toLowerCase().indexOf(matcher) != -1;
+        }
+
+        public boolean equals(Object o) {
+            if(!(o instanceof NameSelectable)) { return false; }
+            NameSelectable ns = (NameSelectable)o;
+            return ns.player.equals(player);
+        }
+
+        public String toString() { return player.getName(); }
+
+        public int compareTo(NameSelectable ns) {
+            return player.getName().compareTo(ns.player.getName());
+        }
+    }
+
     public static interface NameSelectionListener {
-        public void nameSelected(String name);
+        public void nameSelected(Player p);
     }
 }

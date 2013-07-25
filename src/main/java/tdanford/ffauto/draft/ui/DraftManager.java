@@ -4,6 +4,7 @@ import tdanford.ffauto.draft.Player;
 import tdanford.ffauto.draft.Position;
 
 import javax.swing.*;
+import javax.swing.border.TitledBorder;
 import java.awt.*;
 import java.lang.reflect.InvocationTargetException;
 import java.util.*;
@@ -29,7 +30,9 @@ public class DraftManager extends JFrame {
         positionViews = new HashMap<Position,PositionView>();
 
         c.add(selector);
-        JPanel positionPanel = new JPanel(new FlowLayout());
+        JPanel positionPanel = new JPanel();
+        positionPanel.setLayout(new BoxLayout(positionPanel, BoxLayout.X_AXIS));
+
         c.add(positionPanel);
 
         for(Position pos : Position.values()) {
