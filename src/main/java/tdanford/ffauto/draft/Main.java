@@ -1,5 +1,7 @@
 package tdanford.ffauto.draft;
 
+import tdanford.ffauto.draft.ui.DraftManager;
+
 import java.io.IOException;
 import java.util.Comparator;
 
@@ -9,6 +11,7 @@ import java.util.Comparator;
  */
 public class Main {
     public static void main(String[] args) throws IOException {
+        /*
         PlayerList pl = new PlayerList();
         int nextDraft = pl.getRoster().size() % 2 == 0 ? 6 : 16;
         Draft d = new Draft(pl.getRoster());
@@ -17,5 +20,10 @@ public class Main {
         for(int i = 0; i < parray.length && i < 10; i++) {
             System.out.println(parray[i]);
         }
+        */
+
+        PlayerList pl = new PlayerList();
+        DraftManager manager = new DraftManager(pl.getPlayers());
+        manager.makeVisible();
     }
 }
