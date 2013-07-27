@@ -5,6 +5,7 @@ import java.io.*;
 
 public class PlayerList {
 
+    private Map<String,Team> teams;
 	private ArrayList<Player> players;
 	private Roster roster;
 
@@ -36,11 +37,12 @@ public class PlayerList {
 		br.close();
 		
 		players = new ArrayList<Player>();
+        teams = new TreeMap<String,Team>();
 		
 		br = new BufferedReader(new FileReader(f));
 		while((line = br.readLine()) != null) { 
 			if((line = line.trim()).length() > 0) { 
-				Player p = new Player(line);
+				Player p = new Player(line, teams);
 				if(rostered.contains(p.name)) { 
 					roster.players.get(p.position).add(p);
 				}
@@ -56,6 +58,8 @@ public class PlayerList {
 	}
 
     public Collection<Player> getPlayers() { return players; }
+
+    public Collection<Team> getTeams() { return teams.values(); }
 
     public Roster getRoster() { return roster; }
 

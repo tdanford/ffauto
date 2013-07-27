@@ -3,6 +3,9 @@ package tdanford.ffauto.draft;
 import static org.testng.Assert.*;
 import org.testng.annotations.*;
 
+import java.util.Map;
+import java.util.TreeMap;
+
 /**
  * User: tdanford
  */
@@ -12,24 +15,36 @@ public class PlayerTest {
 	
 	@Test(expectedExceptions = IllegalArgumentException.class)
 	public void testThrowsExceptionIfNullLine() { 
-		new Player(null);
+		new Player(null, null);
 	}
-	
-	@Test
-	public void testNameUpperCase() { 
-		Player p = new Player("1\tFoo D. Bar, Hou RB\t5.1");
+
+    @Test(expectedExceptions = IllegalArgumentException.class)
+    public void testThrowsExceptionIfNullTeams() {
+        Player p = new Player("1\tFoo D. Bar, Hou RB\t5.1", null);
+    }
+
+    @Test
+	public void testNameUpperCase() {
+        Map<String,Team> teams = new TreeMap<String,Team>();
+		Player p = new Player("1\tFoo D. Bar, Hou RB\t5.1", teams);
+
 		assertEquals(p.name, "Foo D. Bar".toUpperCase());
+        assertTrue(teams.containsKey("Hou"));
 	}
 	
 	@Test
-	public void testPositionParseRB() { 
-		Player p = new Player("1\tFoo D. Bar, Hou RB\t5.1");
+	public void testPositionParseRB() {
+        Map<String,Team> teams = new TreeMap<String,Team>();
+		Player p = new Player("1\tFoo D. Bar, Hou RB\t5.1", teams);
 		assertEquals(p.position, Position.RB);
+        assertTrue(teams.containsKey("Hou"));
 	}
 	
 	@Test
-	public void testFutureValueParse() { 
-		Player p = new Player("1\tFoo D. Bar, Hou RB\t5.1");
+	public void testFutureValueParse() {
+        Map<String,Team> teams = new TreeMap<String,Team>();
+		Player p = new Player("1\tFoo D. Bar, Hou RB\t5.1", teams);
+
 		assertTrue(p.futureValue-5.1 <= eps, String.format("p.futureValue should be 5.1"));
 	}
 }
