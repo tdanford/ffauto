@@ -8,9 +8,9 @@ public class DraftHistory {
 	private Roster roster;
     private LinkedList<Player> draftList;
 	
-	public DraftHistory(Manager m, Roster r) {
+	public DraftHistory(Manager m) {
         this.manager = m;
-		roster = r;
+		roster = new Roster();
         draftList = new LinkedList<Player>();
 	}
 
