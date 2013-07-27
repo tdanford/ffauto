@@ -13,9 +13,18 @@ The main method to run is Main.java, and it requires two input files:
 
 An example of the first file, gleaned from the ESPN.com ff site, is given in the src/main/resources folder.
 
+2013 Season
+-----------
+
+This branch, 'season2013', contains my updates in preparation for the 2013/2014 NFL season.  
+
+Most of the code here is based on the "default" ESPN FF League rules.  Some work would be required to adapt the code to handle other or modified league rules.
+
+
 Known Issues / To Do
 ====================
 
 * Handle bye-weeks for players
 * Strategic decisions based on previous choices by other players
 * Update the model (move to a sampling/stochastic system?) for the other players draft choices
+* Understand the effect of matchups on offensive/defensive players

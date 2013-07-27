@@ -1,8 +1,10 @@
 package tdanford.ffauto.draft;
 
+import tdanford.ffauto.draft.events.RosterListener;
+
 import java.util.*;
 
-public class Roster {
+public class Roster extends EventSource<RosterListener> {
 	
 	public static Map<Position,Integer> startingSpots;
 	
@@ -19,7 +21,8 @@ public class Roster {
 	public Map<Position,Set<Player>> players;
 	public double injuryFactor;
 	
-	public Roster() { 
+	public Roster() {
+        super(RosterListener.class);
 		players = new HashMap<Position,Set<Player>>();
 		for(Position p : Position.values()) { 
 			players.put(p, new TreeSet<Player>());
@@ -27,15 +30,8 @@ public class Roster {
 		injuryFactor = 0.25;
 	}
 	
-	public int size() { 
-		int s = 0; 
-		for(Position p : players.keySet()) { 
-			s += players.get(p).size();
-		}
-		return s;
-	}
-	
-	public Roster(Roster r, Player p) { 
+	public Roster(Roster r, Player p) {
+        super(RosterListener.class);
 		players = new HashMap<Position,Set<Player>>();
 		for(Position pos : r.players.keySet()) { 
 			players.put(pos, new TreeSet<Player>(r.players.get(pos)));
@@ -43,8 +39,30 @@ public class Roster {
 		injuryFactor = r.injuryFactor;
 		players.get(p.position).add(p);
 	}
-	
-	public double factor(Player p) { 
+
+    public void addPlayer(Player p) {
+        if(!players.get(p.getPosition()).contains(p)) {
+            players.get(p.getPosition()).add(p);
+            fireEvent("playerAdded", this, p);
+        }
+    }
+
+    public void removePlayer(Player p) {
+        if(players.get(p.getPosition()).contains(p)) {
+            players.get(p.getPosition()).remove(p);
+            fireEvent("playerRemoved", this, p);
+        }
+    }
+
+    public int size() {
+        int s = 0;
+        for(Position p : players.keySet()) {
+            s += players.get(p).size();
+        }
+        return s;
+    }
+
+    public double factor(Player p) {
 		int rem = remaining(p.position);
 		double factor = 1.0;
 		if(rem <= 0) { 
