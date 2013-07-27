@@ -255,8 +255,4 @@ public class PlayerSelector extends JPanel {
             return player.getName().compareTo(ns.player.getName());
         }
     }
-
-    public static interface NameSelectionListener {
-        public void nameSelected(Player p);
-    }
 }

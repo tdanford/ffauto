@@ -54,8 +54,8 @@ public class PlayerSelectorTest {
 
         PlayerSelector sel = new PlayerSelector(players);
 
-        PlayerSelector.NameSelectionListener listener = mock(PlayerSelector.NameSelectionListener.class);
-        PlayerSelector.NameSelectionListener listener2 = mock(PlayerSelector.NameSelectionListener.class);
+        NameSelectionListener listener = mock(NameSelectionListener.class);
+        NameSelectionListener listener2 = mock(NameSelectionListener.class);
         sel.addNameSelectionListener(listener);
         sel.addNameSelectionListener(listener2);
 

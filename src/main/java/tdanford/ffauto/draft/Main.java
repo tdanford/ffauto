@@ -23,7 +23,9 @@ public class Main {
         */
 
         PlayerList pl = new PlayerList();
-        DraftManager manager = new DraftManager(pl.getPlayers());
+        Draft d = new Draft(new Manager("Timothy"), new Manager("Charlie"), new Manager("Maggie"));
+
+        DraftManager manager = new DraftManager(d, pl.getPlayers());
         manager.makeVisible();
     }
 }

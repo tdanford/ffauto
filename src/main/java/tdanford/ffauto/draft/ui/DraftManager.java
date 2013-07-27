@@ -1,5 +1,6 @@
 package tdanford.ffauto.draft.ui;
 
+import tdanford.ffauto.draft.Draft;
 import tdanford.ffauto.draft.Player;
 import tdanford.ffauto.draft.Position;
 
@@ -15,10 +16,11 @@ import java.util.*;
  */
 public class DraftManager extends JFrame {
 
+    DraftViewPanel draftView;
     PlayerSelector selector;
     Map<Position,PositionView> positionViews;
 
-    public DraftManager(Collection<Player> players) {
+    public DraftManager(Draft d, Collection<Player> players) {
         super();
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -28,17 +30,32 @@ public class DraftManager extends JFrame {
 
         selector = new PlayerSelector(players);
         positionViews = new HashMap<Position,PositionView>();
+        draftView = new DraftViewPanel(d);
 
-        c.add(selector);
+        JPanel topPanel = new JPanel(new BorderLayout());
+        topPanel.add(selector, BorderLayout.CENTER);
+        topPanel.add(draftView, BorderLayout.EAST);
+
         JPanel positionPanel = new JPanel();
         positionPanel.setLayout(new BoxLayout(positionPanel, BoxLayout.X_AXIS));
 
+        c.add(topPanel);
         c.add(positionPanel);
 
         for(Position pos : Position.values()) {
             positionViews.put(pos, new PositionView(pos, players));
             positionPanel.add(positionViews.get(pos));
+
+            positionViews.get(pos).addNameSelectionListener(new NameSelectionListener() {
+                public void nameSelected(Player p) {
+                    selectPlayer(p);
+                }
+            });
         }
+    }
+
+    public void selectPlayer(Player p) {
+
     }
 
     public void makeVisible() {
