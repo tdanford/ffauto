@@ -40,16 +40,22 @@ public class Schedule {
 
                         for(int i = 1; i < array.length; i++) {
                             String atTeamName = array[i];
-                            boolean awayGame = atTeamName.startsWith("@");
-                            String otherTeamName = awayGame ?
-                                    atTeamName.substring(1) : atTeamName;
+                            if(atTeamName.equals("BYE")) {
+                                // do nothing.
 
-                            Team otherTeam = getTeam(otherTeamName);
-
-                            if(awayGame) {
-                                addMatchup(header[i], otherTeam, team);
                             } else {
-                                addMatchup(header[i], team, otherTeam);
+
+                                boolean awayGame = atTeamName.startsWith("@");
+                                String otherTeamName = awayGame ?
+                                        atTeamName.substring(1) : atTeamName;
+
+                                Team otherTeam = getTeam(otherTeamName);
+
+                                if(awayGame) {
+                                    addMatchup(header[i], otherTeam, team);
+                                } else {
+                                    addMatchup(header[i], team, otherTeam);
+                                }
                             }
                         }
                     }

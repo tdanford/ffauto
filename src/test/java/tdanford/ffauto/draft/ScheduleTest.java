@@ -33,5 +33,7 @@ public class ScheduleTest {
 
         assertEquals(s.getMatchup(ari, "17"), sf);
         assertEquals(s.getMatchup(sf, "17"), ari);
+
+        assertTrue(s.findByeWeeks(ari).contains("10"));
     }
 }
