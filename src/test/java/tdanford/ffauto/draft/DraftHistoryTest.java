@@ -19,8 +19,8 @@ public class DraftHistoryTest {
     @Test
     public void testGetDraftOrder() {
         DraftHistory d = new DraftHistory(new Manager("Timothy"));
-        Player p1 = new Player("Test Player1", Position.QB, 1.0);
-        Player p2 = new Player("Test Player2", Position.RB, 2.0);
+        Player p1 = new Player("Test Player1", Position.QB, null, 1.0);
+        Player p2 = new Player("Test Player2", Position.RB, null, 2.0);
 
         d.addPlayer(p1);
         d.addPlayer(p2);

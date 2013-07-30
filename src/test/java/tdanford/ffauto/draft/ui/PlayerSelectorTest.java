@@ -18,9 +18,9 @@ public class PlayerSelectorTest {
     @Test
     public void testPlayerSelectorNameSelection() {
         ArrayList<Player> players = new ArrayList<Player>();
-        Player p1 = new Player("Tim Player1", Position.QB, 1.0);
-        Player p2 = new Player("Tom Player2", Position.QB, 1.0);
-        Player p3 = new Player("John Player3", Position.QB, 1.0);
+        Player p1 = new Player("Tim Player1", Position.QB, null, 1.0);
+        Player p2 = new Player("Tom Player2", Position.QB, null, 1.0);
+        Player p3 = new Player("John Player3", Position.QB, null, 1.0);
         players.add(p1);
         players.add(p2);
         players.add(p3);
@@ -47,8 +47,8 @@ public class PlayerSelectorTest {
     @Test
     public void testPlayerSelectionEvent() {
         ArrayList<Player> players = new ArrayList<Player>();
-        Player p1 = new Player("ABC Player1", Position.QB, 1.0);
-        Player p2 = new Player("DEF Player2", Position.QB, 1.0);
+        Player p1 = new Player("ABC Player1", Position.QB, null, 1.0);
+        Player p2 = new Player("DEF Player2", Position.QB, null, 1.0);
         players.add(p1);
         players.add(p2);
 

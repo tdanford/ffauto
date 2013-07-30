@@ -19,7 +19,7 @@ public class RosterTest {
         assertEquals(r.size(), 0);
         assertEquals(r.remaining(Position.QB), 1);
 
-        Player p = new Player("Test Player", Position.QB, 0.0);
+        Player p = new Player("Test Player", Position.QB, null, 0.0);
         Roster r2 = new Roster(r, p);
 
         assertEquals(r2.size(), 1);
@@ -28,15 +28,15 @@ public class RosterTest {
 
     @Test
     public void testRosterFactor() {
-        Player p = new Player("Test Player", Position.RB, 1.0);
-        Player p2 = new Player("Second Player", Position.RB, 1.0);
+        Player p = new Player("Test Player", Position.RB, null, 1.0);
+        Player p2 = new Player("Second Player", Position.RB, null, 1.0);
         Roster r = new Roster(new Roster(), p);
 
         assertEquals(r.remaining(Position.RB), 5, "There should be five RB remaining");
         assertEquals(r.factor(p2), 1.0, "The injury factor for that running back should be 1.0");
 
-        Player qb = new Player("Test QB", Position.QB, 1.0);
-        Player qb2 = new Player("Second QB", Position.QB, 1.0);
+        Player qb = new Player("Test QB", Position.QB, null, 1.0);
+        Player qb2 = new Player("Second QB", Position.QB, null, 1.0);
         Roster r2 = new Roster(r, qb);
 
         assertEquals(r2.remaining(Position.QB), 0, "Should be no QB remaining");
@@ -45,8 +45,8 @@ public class RosterTest {
 
     @Test
     public void testRosterEvents() {
-        Player p1 = new Player("Test QB", Position.QB, 1.0);
-        Player p2 = new Player("Test RB", Position.RB, 1.0);
+        Player p1 = new Player("Test QB", Position.QB, null, 1.0);
+        Player p2 = new Player("Test RB", Position.RB, null, 1.0);
 
         Roster r = new Roster();
 

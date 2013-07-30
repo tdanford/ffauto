@@ -12,6 +12,17 @@ import java.util.TreeMap;
 public class PlayerTest {
 	
 	public static final double eps = 0.000001;
+
+    @Test
+    public void testAccessors() {
+        Team team = new Team("TEST");
+        Player p = new Player("Timothy Player", Position.DEF, team, 1.0);
+
+        assertEquals(p.getName(), "Timothy Player");
+        assertEquals(p.getPosition(), Position.DEF);
+        assertEquals(p.getTeam(), team);
+        assertEquals(p.getFutureValue(), 1.0);
+    }
 	
 	@Test(expectedExceptions = IllegalArgumentException.class)
 	public void testThrowsExceptionIfNullLine() { 

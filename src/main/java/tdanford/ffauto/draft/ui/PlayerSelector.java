@@ -19,34 +19,6 @@ import tdanford.ffauto.draft.*;
  */
 public class PlayerSelector extends JPanel {
 
-    public static void main(String[] args) {
-        final JFrame frame = new JFrame("Test Frame");
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        Container c = frame.getContentPane();
-        c.setLayout(new BorderLayout());
-
-        ArrayList<Player> players = new ArrayList<Player>();
-        players.add(new Player("Timothy Danford", Position.DEF, 0.0));
-        players.add(new Player("Tim Johnson", Position.K, 0.0));
-        players.add(new Player("Peter Johnson", Position.K, 0.0));
-
-        PlayerSelector selector = new PlayerSelector(players);
-
-        c.add(selector, BorderLayout.CENTER);
-        try {
-            SwingUtilities.invokeAndWait(new Runnable() {
-                public void run() {
-                    frame.setVisible(true);
-                    frame.pack();
-                }
-            });
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        } catch (InvocationTargetException e) {
-            e.printStackTrace();
-        }
-    }
-
     private String currentRestriction;
     private TreeSet<NameSelectable> players;
     private NameListModel listModel;

@@ -17,11 +17,11 @@ public class Player implements Comparable<Player> {
             "\\s+(\\w+)" +      // position
             "\\s(.+)$");        // value
 
-    public Player(String name, Position pos, double value) {
+    public Player(String name, Position pos, Team team, double value) {
         this.name = name;
         this.futureValue = value;
         this.position = pos;
-        this.team = null;
+        this.team = team;
     }
 
 	public Player(String line, Map<String,Team> teams) {
@@ -44,9 +44,7 @@ public class Player implements Comparable<Player> {
     public Double getFutureValue() { return futureValue; }
     public Position getPosition() { return position; }
     public String getName() { return name; }
-
     public Team getTeam() { return team; }
-    public void setTeam(Team t) { team = t; }
 
     public int compareTo(Player p){
 		if(futureValue > p.futureValue) { return -1; }
