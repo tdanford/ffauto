@@ -70,8 +70,30 @@ public class Roster extends EventSource<RosterListener> {
         return s;
     }
 
+    public double value() {
+        double sum = 0.0;
+
+        for(Position pos : players.keySet()) {
+            double factor = 1.0;
+            int depth = 0;
+
+            for(Player p : players.get(pos)) {
+                sum += (factor * p.getFutureValue());
+                depth += 1;
+
+                // This isn't correct, but I need to do something simple for now.
+                // Really, we need a substitution model, in order to understand
+                // how likely a player is to be played, given the possibility of injuries
+                // in front of him.
+                factor *= injuryFactor;
+            }
+        }
+
+        return sum;
+    }
+
     public double factor(Player p) {
-		int rem = remaining(p.position);
+		int rem = remaining(p.getPosition());
 		double factor = 1.0;
 		if(rem <= 0) { 
 			factor = Math.pow(injuryFactor, 1-rem);
