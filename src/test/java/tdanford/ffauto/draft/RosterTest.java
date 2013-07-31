@@ -3,6 +3,8 @@ package tdanford.ffauto.draft;
 import org.testng.annotations.*;
 import tdanford.ffauto.draft.events.RosterListener;
 
+import java.util.Collection;
+
 import static org.mockito.Mockito.*;
 import static org.testng.Assert.*;
 
@@ -24,6 +26,10 @@ public class RosterTest {
 
         assertEquals(r2.size(), 1);
         assertEquals(r2.remaining(Position.QB), 0);
+
+        Collection<Player> r2Players = r2.getPlayers();
+        assertEquals(r2Players.size(), 1);
+        assertTrue(r2Players.contains(p));
     }
 
     @Test

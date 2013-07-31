@@ -40,6 +40,14 @@ public class Roster extends EventSource<RosterListener> {
 		players.get(p.position).add(p);
 	}
 
+    public Collection<Player> getPlayers() {
+        ArrayList<Player> ps = new ArrayList<Player>();
+        for(Position p : players.keySet()) {
+            ps.addAll(players.get(p));
+        }
+        return ps;
+    }
+
     public void addPlayer(Player p) {
         if(!players.get(p.getPosition()).contains(p)) {
             players.get(p.getPosition()).add(p);
