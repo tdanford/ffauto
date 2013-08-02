@@ -20,6 +20,7 @@ public class SeasonSimulator {
                     new PositionSlot(Position.RB),
                     new PositionSlot(Position.WR),
                     new PositionSlot(Position.WR),
+                    new RbWrSlot(),
                     new PositionSlot(Position.TE),
                     new FlexSlot(),
                     new PositionSlot(Position.K),
@@ -94,6 +95,16 @@ class PositionSlot implements Slot {
     }
 
     public String toString() { return position.name(); }
+}
+
+class RbWrSlot implements Slot {
+
+    public boolean acceptsPlayer(Player p) {
+        return p.getPosition().equals(Position.RB) ||
+                p.getPosition().equals(Position.WR);
+    }
+
+    public String toString() { return "RB/WR"; }
 }
 
 class FlexSlot implements Slot {
