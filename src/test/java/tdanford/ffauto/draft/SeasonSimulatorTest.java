@@ -20,7 +20,8 @@ public class SeasonSimulatorTest {
         Schedule schedule = new Schedule(teams);
         schedule.addMatchup("1", new Team("Team1"), new Team("Team2"));
 
-        SeasonSimulator sim = new SeasonSimulator(new Roster(), schedule);
+        LeagueRules rules = new LeagueRules();
+        SeasonSimulator sim = new SeasonSimulator(rules, new Roster(), schedule);
         sim.simulateSeason();
 
         assertTrue(sim.getTotalScore() >= 0.0);

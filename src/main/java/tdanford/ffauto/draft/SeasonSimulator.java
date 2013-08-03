@@ -13,24 +13,12 @@ public class SeasonSimulator {
      */
     private static double probInjury = 0.1;
 
-    private static Slot[] slots =
-            new Slot[] {
-                    new PositionSlot(Position.QB),
-                    new PositionSlot(Position.RB),
-                    new PositionSlot(Position.RB),
-                    new PositionSlot(Position.WR),
-                    new PositionSlot(Position.WR),
-                    new RbWrSlot(),
-                    new PositionSlot(Position.TE),
-                    new FlexSlot(),
-                    new PositionSlot(Position.K),
-                    new PositionSlot(Position.DEF)
-            };
-
 
     /*
      * Running values
      */
+    private LeagueRules rules;
+
     private Roster roster;
 
     private Schedule schedule;
@@ -39,7 +27,8 @@ public class SeasonSimulator {
 
     private double totalScore;
 
-    public SeasonSimulator(Roster r, Schedule s) {
+    public SeasonSimulator(LeagueRules rules, Roster r, Schedule s) {
+        this.rules = rules;
         this.roster = r;
         this.schedule = s;
         this.status = new TreeMap<Player,PlayerStatus>();
@@ -60,7 +49,7 @@ public class SeasonSimulator {
     }
 
     public Starters findStarters() {
-        Starters starters = new Starters(slots);
+        Starters starters = new Starters(rules.getSlots());
 
         return starters;
     }
