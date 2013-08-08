@@ -1,6 +1,11 @@
 package tdanford.ffauto.draft;
 
+import java.util.ArrayList;
+
 /**
+ * Manager represents a player in the fantasy football league,
+ * who has a draft, manages a Roster, etc.
+ *
  * User: tdanford
  * Date: 7/24/13
  */

@@ -4,6 +4,10 @@ import java.util.*;
 import java.io.*;
 
 /**
+ * Schedule encapsulates the schedule of the teams _in the NFL_,
+ * allowing calculations of bye weeks and head-to-head matchups
+ * between players.
+ *
  * User: tdanford
  * Date: 7/25/13
  */
