@@ -20,10 +20,15 @@ public class SeasonSimulatorTest {
         Schedule schedule = new Schedule(teams);
         schedule.addMatchup("1", new Team("Team1"), new Team("Team2"));
 
+        ArrayList<Player> players = new ArrayList<Player>();
+        Player p1 = new Player("Test Player", Position.QB, new Team("Team1"), 10.0);
+        players.add(p1);
+
         LeagueRules rules = new LeagueRules();
-        SeasonSimulator sim = new SeasonSimulator(rules, new Roster(), schedule);
+        SeasonSimulator sim = new SeasonSimulator(rules, schedule, players);
         sim.simulateSeason();
 
-        assertTrue(sim.getTotalScore() >= 0.0);
+        assertTrue(sim.getPlayers().contains(p1), "Player set does not contain the player p1");
+        assertTrue(sim.getTotalValue(p1) >= 0.0, String.format("Player p1's score %f is negative", sim.getTotalValue(p1)));
     }
 }
