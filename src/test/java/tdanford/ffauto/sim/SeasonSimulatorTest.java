@@ -1,8 +1,11 @@
-package tdanford.ffauto.draft;
+package tdanford.ffauto.sim;
 
 import java.util.*;
 
 import org.testng.annotations.*;
+import tdanford.ffauto.draft.*;
+import tdanford.ffauto.sim.SeasonSimulator;
+
 import static org.testng.Assert.*;
 
 /**

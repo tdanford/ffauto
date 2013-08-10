@@ -1,4 +1,8 @@
-package tdanford.ffauto.draft;
+package tdanford.ffauto.sim;
+
+import tdanford.ffauto.draft.LeagueRules;
+import tdanford.ffauto.draft.Player;
+import tdanford.ffauto.draft.Schedule;
 
 import java.util.*;
 
