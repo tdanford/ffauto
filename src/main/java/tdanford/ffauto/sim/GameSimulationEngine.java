@@ -35,7 +35,7 @@ class SimpleGameSimulationEngine implements GameSimulationEngine {
 
         for(Player p : stats.keySet()) {
             if(stats.get(p).isInjured()) {
-                values.put(p, 0.0);
+                values.put(p, null);  // nulls represent players who didn't play.
             } else {
                 double value = simulatePlayerScore(p, rand);
                 values.put(p, value);
@@ -45,7 +45,7 @@ class SimpleGameSimulationEngine implements GameSimulationEngine {
         return values;
     }
 
-    private static double simulatePlayerScore(Player p, Random rand) {
+    public static double simulatePlayerScore(Player p, Random rand) {
         Double value = p.getFutureValue();
         double stddev = 10.0;
 
