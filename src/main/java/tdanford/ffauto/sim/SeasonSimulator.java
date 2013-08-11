@@ -119,6 +119,8 @@ public class SeasonSimulator {
      * week to fit into the complete set of Slots provided by the LeagueRules, and returns
      * a Starters object matching those players to the slots.
      *
+     * TODO This needs to be updated, since a 'greedy' approach doesn't always produce the optimal Starter set.
+     *
      * @param r The Roster to choose the non-injured players from.
      * @param week The week in which to choose the Starters
      * @return A Starters object containing the Players matched to Slots.
