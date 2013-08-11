@@ -17,6 +17,15 @@ class PositionSlot implements Slot {
     }
 
     public String toString() { return position.name(); }
+
+    public int hashCode() { return position.hashCode(); }
+
+    public boolean equals(Object o) {
+        if(!(o instanceof PositionSlot)) { return false; }
+        PositionSlot ps = (PositionSlot)o;
+        return ps.position.equals(position);
+    }
+
 }
 
 class RbWrSlot implements Slot {
@@ -27,6 +36,10 @@ class RbWrSlot implements Slot {
     }
 
     public String toString() { return "RB/WR"; }
+
+    public int hashCode() { return toString().hashCode(); }
+
+    public boolean equals(Object o) { return o instanceof RbWrSlot; }
 }
 
 class FlexSlot implements Slot {
@@ -37,4 +50,8 @@ class FlexSlot implements Slot {
     }
 
     public String toString() { return "FLEX"; }
+
+    public int hashCode() { return toString().hashCode(); }
+
+    public boolean equals(Object o) { return o instanceof FlexSlot; }
 }
