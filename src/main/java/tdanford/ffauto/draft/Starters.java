@@ -1,5 +1,7 @@
 package tdanford.ffauto.draft;
 
+import java.util.*;
+
 /**
  * Starters class represents the assignments of Players to Slots for
  * a particular game.
@@ -8,6 +10,10 @@ public class Starters {
 
     private Slot[] slots;
     private Player[] players;
+
+    public Starters(Slot[] ss, Collection<Player> available, PlayerValue evaluator) {
+        // TODO fill me in with a matching algorithm.
+    }
 
     public Starters(Slot[] slots, Player[] players) {
         if(players.length != slots.length) {
