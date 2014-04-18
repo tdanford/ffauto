@@ -23,7 +23,21 @@ public class Main {
         */
 
         PlayerList pl = new PlayerList();
-        Draft d = new Draft(new Manager("Timothy"), new Manager("Charlie"), new Manager("Maggie"));
+
+        Manager[] managers = new Manager[] {
+                new Manager("Mojo Risin'"),
+                new Manager("Ned Stark"),
+                new Manager("Madison"),
+                new Manager("A Man for All Seasons"),
+                new Manager("Gipsy Dancer"),
+                new Manager("Kat"),
+                new Manager("Timothy"),
+                new Manager("Lucy"),
+                new Manager("Robert"),
+                new Manager("The Scout Crows")
+        };
+
+        Draft d = new Draft(managers);
 
         DraftManager manager = new DraftManager(d, pl.getPlayers());
         manager.makeVisible();

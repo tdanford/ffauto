@@ -24,6 +24,7 @@ public class PositionView extends JPanel {
 
     private JTable table;
     private DefaultTableModel tableModel;
+    private Map<String,Player> playerMap;
 
     public PositionView(Position position, Collection<Player> players) {
         super(new BorderLayout());
@@ -31,6 +32,9 @@ public class PositionView extends JPanel {
         tableModel = new NonEditableTableModel();
         table = new JTable(tableModel);
         listeners = new EventSource<NameSelectionListener>(NameSelectionListener.class);
+
+        playerMap = new TreeMap<String,Player>();
+        for(Player p : players) { playerMap.put(p.getName(), p); }
 
         add(new JScrollPane(table));
 
@@ -52,7 +56,9 @@ public class PositionView extends JPanel {
             public void mouseClicked(MouseEvent evt) {
                 int x = evt.getX(), y = evt.getY();
                 int row = table.rowAtPoint(new Point(x, y));
-                listeners.fireEvent("nameSelected", (String)tableModel.getValueAt(row, 0));
+                String name = (String)tableModel.getValueAt(row, 0);
+                Player p = playerMap.get(name);
+                listeners.fireEvent("nameSelected", p);
             }
         });
     }

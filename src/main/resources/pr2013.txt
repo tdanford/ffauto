@@ -1,0 +1,1376 @@
+Adrian Peterson, Min RB	279
+Arian Foster*, Hou RB  O	261
+Marshawn Lynch, Sea RB	233
+Ray Rice, Bal RB	232
+Doug Martin, TB RB	226
+Jamaal Charles, KC RB	228
+C.J. Spiller, Buf RB	227
+Trent Richardson, Cle RB	226
+Alfred Morris, Wsh RB	219
+Calvin Johnson, Det WR	236
+LeSean McCoy, Phi RB	200
+Aaron Rodgers, GB QB	352
+A.J. Green, Cin WR  P	201
+Drew Brees, NO QB	334
+Steven Jackson, Atl RB	192
+Dez Bryant, Dal WR  P	202
+Matt Forte, Chi RB	182
+Stevan Ridley, NE RB  P	181
+Peyton Manning, Den QB	324
+Brandon Marshall, Chi WR  P	196
+Frank Gore, SF RB  P	178
+Julio Jones, Atl WR	186
+Chris Johnson, Ten RB	172
+Demaryius Thomas, Den WR	180
+Tom Brady, NE QB	325
+Percy Harvin*, Sea WR  O	177
+Maurice Jones-Drew, Jac RB  P	172
+Roddy White, Atl WR	177
+Jimmy Graham, NO TE  P	174
+Vincent Jackson, TB WR	175
+Cam Newton, Car QB	323
+David Wilson, NYG RB  P	164
+Andre Johnson, Hou WR	177
+Darren McFadden, Oak RB	168
+Randall Cobb, GB WR	171
+Larry Fitzgerald, Ari WR	167
+Montee Ball, Den RB	162
+Wes Welker, Den WR	154
+Darren Sproles, NO RB	154
+Victor Cruz, NYG WR	152
+DeMarco Sampson, Buf WR	0
+Baron Batch, Pit RB	0
+Ricky Stanzi, KC QB	0
+Bruce Miller, SF RB	0
+Jay Finley, FA RB	0
+Shaun Chapas, Det RB	0
+Kris Durham, Det WR	0
+Greg McElroy, NYJ QB	0
+Stanley Havili, Ind RB	0
+Greg Salas, Phi WR	0
+Johnny White, FA RB	0
+Nathan Enderle, Jac QB	0
+Daniel Hardy, FA TE	0
+Owen Marecic, Cle RB	0
+Ryan Whalen, Cin WR	0
+Anthony Sherman, KC RB	0
+Ronald Johnson, FA WR	0
+Kealoha Pilares, Car WR	0
+Niles Paul, Wsh TE	0
+D.J. Williams, GB TE	0
+Scotty McKnight, FA WR	0
+Aldrick Robinson, Wsh WR	0
+Shane Bannon, FA RB	0
+Taiwan Jones, Oak RB	0
+Jordan Todman, Jac RB  P	0
+Jamie Harper, FA RB	0
+Tandon Doss, Bal WR	0
+Clyde Gates, NYJ WR	0
+Stephen Burton, Min WR	0
+Richard Gordon, Oak TE	0
+Ryan Taylor, GB TE	0
+Kyle Adams, Chi TE	0
+Armon Binns, Mia WR	0
+Dorson Boyce, FA RB	0
+John Clay, FA RB	0
+Graig Cooper, FA RB	0
+Pat Devlin, Mia QB	0
+Tommy Gallarda, Atl TE	0
+Robert Hughes, FA RB	0
+Jerrod Johnson, FA QB	0
+Ricardo Lockette, SF WR	0
+Ryan Mahaffey, FA RB	0
+Kyle Miller, Mia TE	0
+Richard Murphy, FA RB	0
+Jamar Newsome, KC WR	0
+Josh Portis, FA QB	0
+Dane Sanzenbacher, Cin WR	0
+Weslye Saunders, Ind TE	0
+Andre Smith, Dal TE	0
+Jimmy Young, FA WR	0
+Kris Adams, NYG WR	0
+Josh Baker, FA TE	0
+Patrick DiMarco, Atl RB	0
+Scott Tolzien, SF QB	0
+Trevor Vittatoe, FA QB	0
+Matt Asiata, Min RB	0
+Dontavia Bogan, FA WR	0
+Mark Dell, FA WR	0
+Mario Fannin, FA RB	0
+D'Andre Goodwin, FA WR	0
+Jamel Hamler, FA WR	0
+Mike Higgins, NO TE	0
+Chris Hogan, Buf WR	0
+Andre Holmes, Oak WR  SSPD	0
+Mossis Madu, FA RB	0
+William Powell, Ari RB	0
+Allen Reisner, Jac TE	0
+Konrad Reuland, NYJ TE	0
+Austin Sylvester, FA RB	0
+Raymond Webber, FA WR	0
+Drew Davis, Atl WR	0
+Collin Franklin, FA TE	0
+Chris Koepplin, FA K	0
+Jeremy Ross, GB WR	0
+Damien Berry, Bal RB	0
+Vai Taua, FA RB	0
+LaQuan Williams, Bal WR	0
+Brett Brackett, Jac TE  Q	0
+Jake Rogers, FA K	0
+Zack Pianalto, FA TE	0
+Terrence Toliver, Chi WR	0
+Kamar Aiken, NE WR	0
+Brandon Saine, FA RB	0
+Jeff Maehl, Hou WR	0
+McLeod Bethel-Thompson, Min QB	0
+Shaky Smithson, FA WR	0
+Henry Hynoski, NYG RB  P	0
+Michael Preston, Ten WR	0
+Phillip Tanner, Dal RB	0
+Ben Guidugli, FA TE	0
+Mike McNeill, StL TE	0
+Colin Cochart, Dal TE	0
+Eddie Wide, FA RB	0
+Thomas Weber, FA K	0
+Landon Cox, FA WR	0
+David Gilreath, Pit WR	0
+Darren Evans, FA RB	0
+John Griffin, NYJ RB	0
+Raymond Radway, StL WR	0
+Jeff Wolfert, FA K	0
+Adi Kunalic, FA K	0
+Darvin Adams, FA WR	0
+Armond Smith, Car RB	0
+Derrick Jones, FA WR	0
+James McCluskey, FA RB	0
+Kevin Cone, Atl WR	0
+Caleb King, FA RB	0
+Will Johnson, Pit RB	0
+Andre Hardy, FA TE	0
+Les Brown, FA TE	0
+Kellen Moore, Det QB	0
+Ryan Lindley, Ari QB	0
+Edwin Baker, SD RB	0
+Tauren Poole, Car RB	0
+Chris Rainey, FA RB	0
+Orson Charles, Cin TE	0
+Michael Egnew, Mia TE	0
+Marvin McNutt, Mia WR	0
+Joe Adams, Car WR	0
+Devon Wylie, KC WR	0
+DeVier Posey*, Hou WR  O	0
+Jordan White, NYJ WR	0
+Drake Dunsmore, FA TE	0
+Evan Rodriguez, Mia TE	4
+Rhett Ellison, Min TE	0
+Chandler Harnish, Ind QB	0
+B.J. Coleman, GB QB	0
+Junior Hemingway, KC WR	0
+LaVon Brazill, Ind WR  SSPD	0
+Danny Coale, Dal WR  Q	0
+B.J. Cunningham, Phi WR	0
+Dan Herron, Cin RB	0
+Juron Criner, Oak WR	0
+Bradie Ewing, Atl RB	0
+Jeremy Ebert, Jac WR	0
+Brad Smelley, Cle TE	0
+Travis Benjamin, Cle WR	0
+Greg Childs*, Min WR  O	0
+Rishard Matthews, Mia WR	0
+Toney Clemons, Jac WR	0
+John Potter, Wsh K	0
+Michael Smith, TB RB	0
+Collin Mooney, Ten RB	0
+James Rodgers, Atl WR	0
+LaMark Brown, Min TE	0
+Adam Nissley, Atl TE	0
+Deangelo Peterson, Wsh TE	0
+Marcus Jackson, Atl WR	0
+Dominique Davis, Atl QB	0
+Case Keenum, Hou QB	0
+Kashif Moore, Pit WR	0
+Aaron Corp, Mia QB	0
+Devin Aguilar, FA WR	0
+Nathan Palmer, Ind WR	0
+Brandon Barden, Ten TE	0
+Josh Cooper, Cle WR	0
+Garrett Celek, SF TE	0
+Gerell Robinson, Den WR	0
+D.J. Woods, FA WR	0
+Jewel Hampton, SF RB	0
+Cory Harkey, StL TE	0
+Chris Owusu, TB WR	0
+Justin Hilton, FA WR	0
+Taveon Rogers, Cin WR	0
+Dale Moss, Car WR	0
+Phillip Supernaw, Hou TE  P	0
+Nick Stephens, Dal QB	0
+Brandon Carswell, SF WR	0
+Joe Banyard, Min RB	0
+Cody Johnson, FA RB	0
+G.J. Kinne, Phi QB	0
+Donavon Kemp, FA WR	0
+Matt Veldman, Det TE	0
+Darius Hanks, FA WR	0
+Marquis Maze, FA WR	0
+Kevin Elliott, Buf WR	0
+Andrew Szczerba, Atl TE	0
+Jeff Fuller, Mia WR	0
+Cole Beasley, Dal WR	0
+Nelson Rosario, Car WR	0
+Beau Brinkley, Ten TE	0
+Jarrett Boykin, GB WR	0
+Griff Whalen, Ind WR	0
+Tyler Urban, FA TE	0
+Tim Benford, Dal WR  P	0
+Jabin Sambrano, Ind WR	0
+Dominique Jones, Ind TE	0
+Kamar Jorden, FA WR	0
+Saalim Hakim, NO WR	0
+Derek Carrier, Phi WR	0
+Brian Hernandez, FA WR	0
+Matt Simms, NYJ QB	0
+Marc Tyler, FA RB	0
+Danny Noble, TB TE	0
+Royce Pollard, FA WR	0
+Eric Lair, FA TE	0
+Carson Wiggs, Sea K	0
+Jermaine Kearse, Sea WR	0
+Lavasier Tuinei, Dal WR	0
+Nick Johnson, StL WR	0
+Kendall Wright, Ten WR	112
+Jacquizz Rodgers, Atl RB	83
+DeAndre Hopkins, Hou WR	86
+Jared Cook, StL TE	94
+Ronnie Hillman, Den RB	86
+Sam Bradford, StL QB	206
+Daryl Richardson, StL RB	91
+Bears D/ST D/ST	160
+Shonn Greene, Ten RB	80
+Alshon Jeffery, Chi WR  P	92
+Broncos D/ST D/ST	140
+Andre Roberts, Ari WR	87
+Martellus Bennett, Chi TE	93
+Andy Dalton, Cin QB	210
+Michael Bush, Chi RB	82
+Malcom Floyd, SD WR	85
+Bengals D/ST D/ST	125
+Brandon Pettigrew, Det TE	82
+Robert Turbin*, Sea RB  O	78
+Brian Hartline, Mia WR	81
+Patriots D/ST D/ST	136
+Michael Turner, FA RB	73
+Jermichael Finley, GB TE	84
+Joseph Randle, Dal RB	69
+Steelers D/ST D/ST	136
+Rams D/ST D/ST	123
+Packers D/ST D/ST	126
+Stephen Gostkowski, NE K	157
+Blair Walsh, Min K	157
+Matt Bryant, Atl K	150
+Justin Tucker, Bal K	148
+Matt Prater, Den K	144
+Phil Dawson, SF K	144
+Randy Bullock, Hou K	141
+Josh Brown, NYG K	137
+Sebastian Janikowski, Oak K	137
+David Akers, Det K  P	134
+Golden Tate, Sea WR	69
+Jay Cutler, Chi QB	200
+Zac Stacy, StL RB	68
+Mike Brown, Jac WR	0
+Nicholas Cooper, FA RB	0
+Travaris Cadet, NO RB	0
+Brad Herman, FA TE	0
+Pat Edwards, Det WR	0
+Derek Dimke, TB K	0
+Alex Gottlieb, Ari TE	0
+Austin Wells, FA TE	0
+Bobby Rainey, Bal RB	0
+Deonte Thompson, Bal WR	0
+Jared Green, Dal WR	0
+Sean McGrath, Sea TE	0
+Tarren Lloyd, FA TE	0
+David Douglas, TB WR	0
+Dorian Graham, FA WR	0
+LaRon Byrd, Ari WR	0
+Nate Eachus, FA RB	0
+Josh Bellamy, KC WR	0
+Brittan Golden, Chi WR	0
+Jeremy Stewart, Oak RB	0
+Tray Session, Oak WR	0
+Jared Crank, FA RB	0
+Jarrett Lee, FA QB	0
+Brandon Venson, FA TE	0
+Logan Brock, FA TE	0
+Curenski Gilleylen, FA WR	0
+Kyle Efaw, FA TE	0
+Adonis Thomas, FA RB	0
+Emil Igwenagu, Phi TE	0
+Bruce Figgins, FA TE	0
+Matt Balasavage, FA TE	0
+Wallace Miles, FA WR	0
+Damaris Johnson, Phi WR	0
+Jerrell Jackson, Chi WR	0
+Jason Ford, FA RB	0
+Jonathan Grimes, Jac RB	0
+Eddy Carmona, Oak K	0
+Jourdan Brooks, FA RB	0
+Chase Ford, Min TE	0
+Mike Willie, SD WR	0
+Jamize Olawale, Oak RB	0
+Joe Anderson, Chi WR	0
+Cooper Helfet, Sea TE	0
+Danny Hrapmann, Pit K	0
+Brandon Bostick, GB TE	0
+Alex Tanney, Dal QB	0
+Lamont Bryant*, Car WR  O	0
+Larry Donnell, NYG TE	0
+William Green, FA RB	0
+Zach Brown, Buf RB	0
+Duane Bennett, FA RB	0
+Lance Lewis, Wsh WR	0
+Jeff Demps, TB RB  Q	0
+Ifeanyi Momah, Phi WR	0
+Havard Rugland, Det K	0
+Austin Signor, Chi K	0
+Charles Johnson, GB WR	0
+Ryan Griffin, Hou TE	0
+D.C. Jefferson, Ari TE	0
+Sean Renfree, Atl QB	0
+Brice Butler, Oak WR	0
+B.J. Daniels, SF QB	0
+Kevin Dorsey, GB WR	0
+Michael Williams, Det TE	0
+Tavarres King, Den WR	0
+Sam Martin, Det K	0
+Michael Cox, NYG RB	0
+Zac Dysert, Den QB	0
+Chris Gragg, Buf TE	5
+Aaron Mellette, Bal WR	0
+Braden Wilson, KC RB	0
+Tommy Bohanon, NYJ RB	0
+Dion Sims, Mia TE	5
+Levine Toilolo, Atl TE	4
+Cobi Hamilton, Cin WR	0
+Ryan Swope*, Ari WR  O	0
+Justice Cunningham, Ind TE	0
+Theo Riddick, Det WR	0
+Kyle Juszczyk, Bal RB	0
+Alan Bonner, Hou WR	0
+Chris Harper, Sea WR	0
+Justin Brown, Pit WR	0
+Brad Sorensen, SD QB	0
+Jawan Jamison, Wsh RB	0
+Spencer Ware, Sea RB	0
+Marquess Wilson, Chi WR  P	0
+C.J. Anderson, Den RB	0
+Matt Austin, FA WR	0
+Kemonte Bateman, Den WR	0
+Jasper Collins, Mia WR	0
+Ben Cotton, SD TE	0
+Benny Cunningham, StL RB	0
+Chris Denton, FA WR	0
+Reggie Dunn, Pit WR	0
+Michael Edwards, FA WR	0
+Courtney Gardner, FA WR	0
+Kendall Gaskins, Buf RB	0
+Michael Hill, SD RB	0
+Murphy Holloway, FA TE	0
+Ryan Katz, Den QB	0
+Collin Klein, FA QB	0
+John Laub, FA QB	0
+Quincy McDuffie, Den WR	0
+Curtis McNeal, Pit RB	0
+Steven Miller, Det RB	0
+Keavon Milton, NO TE	0
+Angelo Pease, GB RB	0
+Lucas Reed, Den TE	0
+David Rolf, SD TE	0
+Travis Tannahill, Cle TE	0
+Luke Tasker, SD WR	0
+Lamaar Thomas, Den WR	0
+Dominique Whaley, FA RB	0
+Luke Willson, Sea TE	0
+J.D. Woods, Pit WR	0
+Matt Brown, GB QB	0
+Ryan Griffin, NO QB	0
+Mark Harrison, NE WR	0
+Ryan Otten, Jac TE	6
+Jordan Rodgers, Jac QB	0
+Matt Scott, Jac QB  P	0
+Seth Doege, Atl QB	0
+Miguel Maysonet, Cle RB	0
+Jeff Tuel, Buf QB	0
+Quinn Sharp, Cin K	0
+Mike Hermann, SD QB	0
+James Vandenberg, Min QB	0
+Kenbrell Thompkins, NE WR	0
+Zach Sudfeld, NE TE	0
+Colby Cameron, Car QB	0
+Dalton Williams, Dal QB	0
+George Winn, NE RB	0
+Dennis Johnson, Hou RB	0
+Caleb TerBush, Ari QB	0
+Tim Jenkins, StL QB	0
+Matthew McGloin, Oak QB	0
+Rueben Randle, NYG WR	82
+Daniel Thomas, Mia RB	61
+Mike Tolbert, Car RB	66
+Justin Blackmon, Jac WR  SSPD	78
+Pierre Thomas, NO RB  P	78
+Greg Little, Cle WR	75
+Josh Freeman, TB QB	218
+Carson Palmer, Ari QB	221
+Ed Dickson, Bal TE	79
+Danny Woodhead, SD RB	79
+Mike Goodson*, NYJ RB  O	64
+Dustin Keller, Mia TE	79
+Isaac Redman, Pit RB	50
+Ryan Broyles, Det WR  Q	90
+Matt Schaub, Hou QB	230
+Marcel Reece, Oak RB	72
+Santana Moss, Wsh WR	70
+Vincent Brown, SD WR	45
+Philip Rivers, SD QB	216
+Justin Forsett, Jac RB	49
+Ryan Tannehill, Mia QB	205
+Mike Gillislee, Mia RB	48
+Fred Davis, Wsh TE  P	78
+Jacoby Jones, Bal WR	77
+LaMichael James, SF RB	48
+Darrius Heyward-Bey, Ind WR	70
+Robert Woods, Buf WR	69
+Willis McGahee, FA RB	53
+Coby Fleener, Ind TE	68
+Aaron Dobson, NE WR	67
+Jordan Cameron, Cle TE  P	69
+Jeremy Kerley, NYJ WR  P	83
+Ravens D/ST D/ST	117
+Beanie Wells, FA RB	37
+Braylon Edwards, NYJ WR	79
+Santonio Holmes*, NYJ WR  O	57
+Cowboys D/ST D/ST	120
+Nate Burleson, Det WR  P	68
+Cedric Benson, FA RB	53
+Dwayne Allen, Ind TE	65
+Toby Gerhart, Min RB	52
+Brandon LaFell, Car WR	76
+Andrew Hawkins, Cin WR	69
+Dan Bailey, Dal K	134
+Jonathan Dwyer, Pit RB	37
+Greg Zuerlein, StL K	130
+Rashad Jennings, Oak RB	52
+Montario Hardesty, Cle RB	27
+Knowshon Moreno, Den RB  P	34
+Shaun Draughn, KC RB  P	49
+Jake Ballard, NE TE  P	0
+Jermaine Gresham, Cin TE	69
+Evan Royster, Wsh RB	28
+Brian Quick, StL WR	67
+Alex Smith, KC QB	170
+Kendall Hunter*, SF RB  O	26
+Rob Housler, Ari TE	63
+Cordarrelle Patterson, Min WR	58
+Justin Hunter, Ten WR	58
+Keenan Allen, SD WR	50
+DuJuan Harris*, GB RB  O	30
+Rod Streater, Oak WR	65
+Joe Morgan, NO WR	57
+Felix Jones, Phi RB	31
+Ronnie Brown, SD RB	38
+A.J. Jenkins, SF WR	68
+Stephen Hill, NYJ WR  P	51
+Jarius Wright, Min WR	56
+Denard Robinson, Jac RB	20
+Davone Bess, Cle WR	62
+Mohamed Sanu, Cin WR	64
+Nate Washington, Ten WR	53
+Dolphins D/ST D/ST	102
+LaRod Stephens-Howling, Pit RB	23
+Knile Davis, KC RB	14
+Tyler Eifert, Cin TE	64
+Andre Ellington, Ari RB	23
+Donald Brown, Ind RB	26
+Jerome Simpson, Min WR	44
+Christine Michael, Sea RB	25
+Jake Locker, Ten QB	170
+Riley Cooper, Phi WR	63
+Jason Avant, Phi WR	64
+Lance Dunbar, Dal RB	21
+Jacob Tamme, Den TE	62
+Roy Helu, Wsh RB  P	22
+Terrance Williams, Dal WR	47
+LeGarrette Blount, NE RB	10
+Stepfan Taylor, Ari RB	11
+Christian Ponder, Min QB	165
+Latavius Murray, Oak RB  P	16
+Donnie Avery, KC WR	52
+Dion Lewis, Cle RB	27
+Brandon Bolden, NE RB	18
+Quinton Patton, SF WR	47
+Delone Carter, Ind RB  P	11
+Josh Morgan, Wsh WR  Q	56
+Joique Bell, Det RB	25
+Brandon Gibson, Mia WR	59
+Domenik Hixon, Car WR  P	50
+Peyton Hillis, TB RB	17
+Zach Miller*, Sea TE  O	59
+Brandon Weeden, Cle QB	170
+Brent Celek, Phi TE	63
+Leonard Hankerson, Wsh WR	53
+Dexter McCluster, KC WR	56
+Jason Snelling, Atl RB	30
+Marcedes Lewis, Jac TE	66
+Zach Ertz, Phi TE	53
+T.J. Graham, Buf WR	39
+Tommy Streeter, Bal WR	37
+Bilal Powell, NYJ RB	24
+Markus Wheaton, Pit WR	36
+Bernard Scott*, Cin RB  O	18
+Chris Polk, Phi RB	11
+Steven Hauschka, Sea K	128
+Rex Burkhead, Cin RB	15
+Cierre Wood, Hou RB	7
+Heath Miller*, Pit TE  O	59
+Jacoby Ford, Oak WR  P	55
+Garrett Hartley, NO K	127
+Anthony Allen, Bal RB	6
+Tashard Choice, Buf RB	8
+Delanie Walker*, Ten TE  O	55
+Harry Douglas, Atl WR	46
+Joe McKnight, NYJ RB	12
+Da'Rel Scott, NYG RB	6
+Matt Flynn, Oak QB	134
+Joel Dreessen, Den TE  P	55
+Julian Edelman*, NE WR  O	51
+Geno Smith, NYJ QB	102
+Ray Graham, Hou RB	0
+Robbie Gould, Chi K	125
+Leon Washington, NE RB	11
+Corey Fuller, Det WR	36
+Mike Nugent, Cin K	124
+Kevin Kolb, Buf QB	104
+Buccaneers D/ST D/ST	114
+EJ Manuel, Buf QB	89
+Armando Allen, Chi RB	12
+Le'Ron McClain, SD RB	14
+James Starks, GB RB	4
+Lestar Jean, Hou WR	32
+Alex Green, GB RB	11
+Cyrus Gray, KC RB	0
+Mason Crosby, GB K	121
+Lawrence Tynes, TB K	120
+Giants D/ST D/ST	104
+Kenjon Barner, Car RB	0
+Travis Kelce, KC TE	49
+Cardinals D/ST D/ST	100
+Terrance Ganaway, StL RB	0
+Jordan Shipley, Jac WR	48
+Kerwynn Williams, Ind RB	0
+Adam Vinatieri, Ind K	120
+Marcus Lattimore*, SF RB  O	0
+Falcons D/ST D/ST	100
+Tony Scheffler, Det TE	43
+Dwayne Harris, Dal WR	42
+Robert Meachem, SD WR	26
+Luke Stocker*, TB TE  O	47
+Brandon Jacobs, FA RB	0
+Javon Ringer, FA RB	0
+Marvin Jones, Cin WR	31
+Alex Henery, Phi K	117
+Jackie Battle, Ten RB	0
+Browns D/ST D/ST	85
+Doug Baldwin, Sea WR	35
+Mike James, TB RB	0
+Chris Thompson, Wsh RB	0
+Tiquan Underwood, TB WR	36
+Shaun Suisham, Pit K	114
+Mohamed Massaquoi, Jac WR	34
+Vikings D/ST D/ST	102
+Mario Manningham*, SF WR  O	37
+Kellen Winslow, NYJ TE	52
+David Paulson, Pit TE	37
+Josh Boyce, NE WR	29
+Da'Rick Rogers, Buf WR	22
+Jon Baldwin, KC WR	35
+Rob Bironas, Ten K	112
+Chargers D/ST D/ST	106
+Blaine Gabbert, Jac QB	71
+Panthers D/ST D/ST	84
+Chad Henne, Jac QB	67
+Tom Crabtree, TB TE	39
+Stedman Bailey, StL WR	34
+Graham Gano, Car K	112
+Kai Forbath, Wsh K	109
+Virgil Green, Den TE	37
+Nick Toon, NO WR	15
+Nick Foles, Phi QB	63
+Earl Bennett, Chi WR	38
+Louis Murphy, NYG WR	34
+Kenny Stills, NO WR  Q	9
+Taylor Thompson, Ten TE	33
+Jets D/ST D/ST	99
+Mark Sanchez, NYJ QB	46
+Matt Cassel, Min QB	30
+Scott Chandler, Buf TE  P	30
+Kevin Ogletree, TB WR	13
+Dallas Clark, FA TE	31
+Gavin Escobar, Dal TE	26
+Keshawn Martin, Hou WR	16
+James Casey, Phi TE	36
+Tony Moeaki, KC TE  Q	35
+Marquise Goodwin, Buf WR	16
+Ace Sanders, Jac WR  P	17
+Redskins D/ST D/ST	88
+Jay Feely, Ari K	106
+Shayne Graham, Cle K	106
+David Ausberry, Oak TE	26
+Benjamin Watson, NO TE	29
+Garrett Graham, Hou TE	32
+Anthony Fasano, KC TE	33
+Chiefs D/ST D/ST	76
+Jason Campbell, Cle QB	29
+Jeff Cumberland, NYJ TE	33
+Bruce Gradkowski, Pit QB	29
+Ryan Succop, KC K	106
+Eagles D/ST D/ST	81
+Mychal Rivera, Oak TE	30
+Nick Novak, SD K	106
+Kirk Cousins, Wsh QB	33
+Lions D/ST D/ST	78
+Nick Folk, NYJ K	105
+Adrien Robinson, NYG TE	16
+Ryan Fitzpatrick, Ten QB	35
+Josh Scobee, Jac K	100
+Lance Kendricks, StL TE  Q	20
+Bills D/ST D/ST	71
+Rian Lindell, Buf K	92
+Hayden Smith, NYJ TE	15
+Titans D/ST D/ST	84
+Jordan Reed, Wsh TE  P	16
+Dan Carpenter, Mia K	91
+Ryan Mallett, NE QB	0
+Caleb Sturgis, Mia K  Q	0
+Brock Osweiler, Den QB	0
+Vance McDonald, SF TE	17
+Rob Gronkowski*, NE TE  O	173
+Marques Colston*, NO WR  O	150
+Reggie Wayne, Ind WR	149
+Matt Ryan, Atl QB	314
+DeMarco Murray, Dal RB	151
+Colin Kaepernick, SF QB	306
+Jordy Nelson, GB WR	154
+Mike Wallace, Mia WR	154
+Russell Wilson, Sea QB	294
+Danny Amendola, NE WR	115
+Chris Ivory, NYJ RB  P	128
+Reggie Bush, Det RB	155
+Hakeem Nicks, NYG WR	124
+Steve Smith, Car WR	137
+Ryan Mathews, SD RB	140
+Eric Decker, Den WR	134
+Tony Gonzalez, Atl TE	133
+Eddie Lacy, GB RB	147
+Dwayne Bowe, KC WR  Q	132
+Lamar Miller, Mia RB	138
+Jason Witten, Dal TE	123
+Antonio Brown, Pit WR	134
+Le'Veon Bell, Pit RB	133
+Pierre Garcon, Wsh WR  P	123
+Robert Griffin III, Wsh QB  Q	268
+Ahmad Bradshaw*, Ind RB  O	128
+Cecil Shorts, Jac WR	131
+James Jones, GB WR	134
+Matthew Stafford, Det QB	288
+Vernon Davis, SF TE	114
+DeSean Jackson, Phi WR	132
+Torrey Smith, Bal WR	138
+Greg Jennings, Min WR	122
+BenJarvus Green-Ellis, Cin RB	133
+Tavon Austin, StL WR	119
+Andrew Luck, Ind QB	280
+Rashard Mendenhall, Ari RB	119
+Anquan Boldin, SF WR	125
+Shane Vereen, NE RB	128
+Vick Ballard, Ind RB	106
+Colts D/ST D/ST	73
+Drew Stanton, Ari QB	5
+Shaun Hill, Det QB  P	0
+Dustin Hopkins, Buf K	0
+Nick Kasa, Oak TE	10
+Matt Moore, Mia QB	0
+David Buehler, Dal K	0
+Matt Barkley, Phi QB	0
+Michael Hoomanawanui, NE TE	24
+Tyler Wilson, Oak QB	16
+Saints D/ST D/ST	73
+Giorgio Tavecchio, GB K	0
+John Phillips, SD TE	14
+Kyle Orton, Dal QB	0
+Andrew Quarless, GB TE  P	14
+Seneca Wallace, NO QB	0
+Jaguars D/ST D/ST	63
+Matt Hasselbeck, Ind QB	0
+Tarvaris Jackson, Sea QB	0
+T.J. Yates, Hou QB	0
+Colt McCoy, SF QB	9
+Logan Paulsen, Wsh TE	21
+David Carr, NYG QB	0
+Chase Daniel, KC QB	19
+John Skelton, Cin QB	0
+Tyrod Taylor, Bal QB	0
+Kellen Davis, Cle TE	16
+Graham Harrell, GB QB	0
+Raiders D/ST D/ST	40
+Ryan Nassib, NYG QB	0
+Terrelle Pryor, Oak QB	0
+James Hanna, Dal TE  P	11
+Derek Anderson, Car QB	0
+Charlie Whitehurst, SD QB	0
+Austin Davis, StL QB	0
+Mike Glennon, TB QB	0
+Ladarius Green, SD TE	13
+Luke McCown, NO QB	0
+Tim Tebow, NE QB	0
+Josh McCown, Chi QB	0
+Dan Orlovsky, TB QB	0
+Kellen Clemens, StL QB	0
+Charles Clay, Mia TE	18
+Vince Young, FA QB	0
+Landry Jones, Pit QB	0
+Matt Leinart, FA QB	0
+John Carlson, Min TE	13
+Tyler Thigpen, FA QB	0
+Lee Smith, Buf TE  P	11
+Julius Thomas, Den TE	4
+John Kasay, FA K	0
+Jeremy Maclin*, Phi WR  O	-2
+Dennis Pitta*, Bal TE  O	0
+Jason Hanson, FA K	0
+Mark Brunell, FA QB	0
+Terrell Owens, FA WR	0
+Olindo Mare, FA K	0
+Ryan Longwell, FA K	0
+Jon Kitna, FA QB	0
+Todd Bouman, FA QB	0
+Randy Moss, FA WR	0
+Charlie Batch, FA QB	0
+Mike Sellers, FA RB	0
+Jake Delhomme, FA QB	0
+Donovan McNabb, FA QB	0
+Daunte Culpepper, FA QB	0
+Reggie Kelly, FA TE	0
+Jimmy Kleinsasser, FA TE	0
+Kevin Faulk, FA RB	0
+Brandon Stokley, FA WR	0
+Desmond Clark, FA TE	0
+Donald Driver, FA WR	0
+Kris Brown, FA K	0
+Chris Greisen, FA QB	0
+Jeff Garcia, FA QB	0
+Brian Finneran, FA WR	0
+Thomas Jones, FA RB	0
+Plaxico Burress, Pit WR	0
+Anthony Becht, FA TE	0
+Chris Redman, FA QB	0
+Sammy Morris, FA RB	0
+Neil Rackers, FA K	0
+Brian Jennings, SF TE	0
+Billy Volek, FA QB	0
+Justin Snow, FA TE	0
+LaDainian Tomlinson, FA RB	0
+Todd Heap, FA TE	0
+Alge Crumpler, FA TE	0
+Chad Johnson, FA WR	0
+Chris Chambers, FA WR	0
+Sage Rosenfels, FA QB	0
+Moran Norris, FA RB	0
+Correll Buckhalter, FA RB	0
+Brandon Manumaleuna, FA TE	0
+Tony Stewart, FA TE	0
+A.J. Feeley, FA QB	0
+David Martin, FA TE	0
+T.J. Houshmandzadeh, FA WR	0
+Chris Taylor, FA RB	0
+Dominic Rhodes, FA RB	0
+Donte' Stallworth, Wsh WR	0
+Jeremy Shockey, FA TE	0
+Daniel Graham, FA TE	0
+Jabar Gaffney, FA WR	0
+Andre Davis, FA WR	0
+Clinton Portis, FA RB	0
+Maurice Morris, FA RB	0
+Ladell Betts, FA RB	0
+Antwaan Randle El, FA WR	0
+Deion Branch, FA WR	0
+Chris Baker, FA TE	0
+Brian Westbrook, FA RB	0
+Justin Peelle, FA TE	0
+David Garrard, FA QB	0
+Randy McMichael, FA TE	0
+Robert Royal, FA TE	0
+J.T. O'Sullivan, FA QB	0
+Rock Cartwright, FA RB	0
+John Gilmore, FA TE	0
+Chester Taylor, FA RB	0
+Corey McIntyre, FA RB	0
+Billy Cundiff, NYJ K	0
+Jeff Reed, FA K	0
+Jason McKie, FA RB	0
+Byron Leftwich, FA QB	0
+Bryant Johnson, FA WR	0
+Kyle Boller, FA QB	0
+Rex Grossman, Wsh QB	0
+Larry Johnson, FA RB	0
+Kelley Washington, FA WR	0
+Kevin Curtis, FA WR	0
+Visanthe Shiancoe, FA TE	0
+Sam Aiken, FA WR	0
+Ovie Mughelli, FA RB	0
+Justin Gage, FA WR	0
+Donald Lee, FA TE	0
+Brian St. Pierre, FA QB	0
+Arnaz Battle, FA WR	0
+Kevin Walter*, Ten WR  O	0
+Brandon Banks, FA WR	0
+Earnest Graham, FA RB	0
+Will Heller, FA TE	0
+Cleo Lemon, FA QB	0
+Jerheme Urban, FA WR	0
+Greg Lewis, FA WR	0
+Kassim Osgood, SF WR	0
+Roy Williams, FA WR	0
+Reggie Williams, FA WR	0
+Lee Evans, FA WR	0
+Michael Clayton, FA WR	0
+J.P. Losman, FA QB	0
+Michael Jenkins, NE WR	0
+Kevin Jones, FA RB	0
+Julius Jones, FA RB	0
+Devery Henderson, Wsh WR	0
+Greg B. Jones, Hou RB	0
+Keary Colbert, FA WR	0
+Kris Wilson, FA TE	0
+Nate Kaeding, FA K	0
+Ben Hartsock, Car TE	0
+Bernard Berrian, FA WR	0
+Chris Cooley, FA TE	0
+Jerricho Cotchery, Pit WR	0
+Mewelde Moore, FA RB	0
+Ernest Wilford, FA TE	0
+Mike Karney, FA RB	0
+Jim Sorgi, FA QB	0
+Patrick Crayton, FA WR	0
+Jeff Dugan, FA TE	0
+Derrick Ward, FA RB	0
+Terrance Copper, KC WR	0
+Lousaka Polite, FA RB	0
+Vonta Leach, FA RB	0
+Cadillac Williams, FA RB	0
+Mike Williams, FA WR	0
+Mark Clayton, FA WR	0
+Roscoe Parrish, FA WR	0
+Courtney Roby, NO WR	0
+Alex Smith, Cin TE	0
+Roydell Williams, FA WR	0
+Bo Scaife, FA TE	0
+Dave Rayner, FA K	0
+Billy Bajema, Bal TE	0
+Madison Hedgecock, FA RB	0
+Stephen Spach, FA TE	0
+Rashied Davis, FA WR	0
+Josh Cribbs, Oak WR  Q	0
+J.P. Foschi, FA TE	0
+Leonard Weaver, FA RB	0
+Brandon Rideau, FA WR	0
+Tony Curtis, FA TE	0
+Tory Humphrey, FA TE	0
+Ruvell Martin, FA WR	0
+John Standeford, FA WR	0
+Ryan Grant, FA RB	0
+Greg Camarillo, FA WR	0
+John Kuhn, GB RB	0
+Laurence Maroney, FA RB	0
+Joseph Addai, FA RB	0
+Chad Jackson, FA WR	0
+Sinorice Moss, FA WR	0
+LenDale White, FA RB	0
+Devin Hester, Chi WR	0
+Leonard Pope, FA TE	0
+Jerious Norwood, FA RB	0
+Derek Hagan, TB WR	0
+Brodie Croyle, FA QB	0
+David Thomas, FA TE	0
+Maurice Stovall, FA TE	0
+Dominique Byrd, FA TE	0
+Michael Robinson, Sea RB	0
+Brad Smith, Buf WR	0
+Garrett Mills, FA TE	0
+Demetrius Williams, FA WR	0
+Jerome Harrison, FA RB	0
+Jason Pociask, FA TE	0
+Jeff King, Ari TE  P	0
+Lawrence Vickers, Dal RB	0
+Todd Watkins, FA WR	0
+Devin Aromashodu, Chi WR	0
+Quinton Ganther, FA RB	0
+Ben Obomanu, NYJ WR	0
+David Anderson, FA WR	0
+Hank Baskett, FA WR	0
+Mike Bell, FA RB	0
+Brian Clark, FA WR	0
+Patrick Cobbs, FA RB	0
+Felton Huggins, FA WR	0
+Connor Hughes, FA K	0
+Montell Owens, Det RB	0
+Jamie Petrowski, FA TE	0
+Wallace Wright, FA WR	0
+Ahmard Hall, FA RB	0
+Sam Hurd, FA WR	0
+Naufahu Tahi, FA RB	0
+Shane Andrus, FA K	0
+Daniel Fells, NE TE	0
+Micheal Spurlock, Det WR	0
+Greg Estandia, FA TE	0
+Spencer Havner, FA TE	0
+Troy Bergeron, FA WR	0
+Marc Hickok, FA K	0
+Ted Ginn, Car WR	0
+Brady Quinn, Sea QB	0
+Craig Davis, FA WR	0
+Anthony Gonzalez, FA WR	0
+John Beck, FA QB	0
+Dwayne Jarrett, FA WR	0
+Chris Henry, FA RB	0
+Steve Smith, FA WR	0
+Brian Leonard, TB RB	0
+Brandon Jackson, Cle RB	0
+Lorenzo Booker, FA RB	0
+Yamon Figurs, FA WR	0
+Laurent Robinson, FA WR	0
+Jason Hill, FA WR	0
+Matt Spaeth, Pit TE	0
+Mike Sims-Walker, FA WR	0
+Paul Williams, FA WR	0
+Trent Edwards, FA QB	0
+Garrett Wolfe, FA RB	0
+Johnnie Lee Higgins, FA WR	0
+Isaiah Stanback, Jac WR	0
+Steve Breaston, FA WR	0
+Aundrae Allison, FA WR	0
+Kevin Boss, FA TE	0
+Dante Rosario, Dal TE	0
+David Clowney, FA WR	0
+Justin Medlock, FA K	0
+Legedu Naanee, FA WR	0
+Troy Smith, FA QB	0
+Oren O'Neal, FA RB	0
+Reagan Maui'a, FA RB	0
+Thomas Clayton, FA RB	0
+Korey Hall, FA RB	0
+Deon Anderson, FA RB	0
+Jordan Palmer, FA QB	0
+Jordan Kent, FA WR	0
+Ben Patrick, FA TE	0
+Derek Schouman, FA TE	0
+DeShawn Wynn, FA RB	0
+Chandler Williams, FA WR	0
+Chansi Stuckey, FA WR	0
+Clark Harris, Cin TE	0
+Kenneth Darby, FA RB	0
+Onrea Jones, FA WR	0
+Gary Russell, FA RB	0
+Tyler Palko, FA QB	0
+Jesse Holley, FA WR	0
+Matt Gutierrez, FA QB	0
+D.J. Ware, FA RB	0
+Eric Weems, Chi WR	0
+Brandon London, FA WR	0
+Michael Matthews, FA TE	0
+Marcus Mason, FA RB	0
+Tim Castille, FA RB	0
+Ricky Schmitt, FA K	0
+Logan Payne, FA WR	0
+Matt Willis, Det WR	0
+Billy Latsko, FA RB	0
+Daniel Coats, FA TE	0
+Rhys Lloyd, FA K	0
+Gijon Robinson, FA TE	0
+Charles Ali, FA RB	0
+Richard Bartel, FA QB	0
+Eldra Buckley, FA RB	0
+Brett Ratliff, FA QB	0
+Dominique Zeigler, FA WR	0
+Jake Nordin, FA TE	0
+Titus Ryan, NYJ WR	0
+Devin Thomas, Det WR	0
+James Hardy, FA WR	0
+Eddie Royal, SD WR	0
+Malcolm Kelly, FA WR	0
+Limas Sweed, FA WR	0
+Brian Brohm, FA QB	0
+Dexter Jackson, FA WR	0
+Kevin Smith, FA RB	0
+Jacob Hester, Den RB	0
+Brad Cottam, FA TE	0
+Early Doucet, FA WR	0
+Craig Stevens, Ten TE	0
+Steve Slaton, FA RB	0
+Kevin O'Connell, FA QB	0
+Andre Caldwell, Den WR	0
+Marcus Smith, FA WR	0
+Martin Rucker, FA TE	0
+Ryan Torain, NYG RB	0
+Gary Barnidge, Cle TE	0
+Jerome Felton, Min RB	0
+Lavelle Hawkins, NE WR	0
+Tim Hightower, FA RB	0
+Matthew Slater, NE WR	0
+Dennis Dixon, Phi QB	0
+Josh Johnson, Cin QB	0
+Owen Schmitt, FA RB	0
+Jalen Parmele, Ten RB	0
+Xavier Omon, FA RB	0
+Spencer Larsen, FA RB	0
+Colt Brennan, FA QB	0
+Paul Hubbard, FA WR	0
+Jaymar Johnson, FA WR	0
+Lex Hilliard, NYJ RB	0
+Chauncey Washington, FA RB	0
+Justin Harper, FA WR	0
+Brett Swain, Sea WR	0
+Chaz Schilens, Det WR	0
+Brandon Coutu, FA K	0
+Adrian Arrington, FA WR	0
+Jed Collins, NO RB	0
+Caleb Hanie, Bal QB	0
+Louis Rankin, FA RB	0
+Samuel Giguere, FA WR	0
+Joey Haynos, FA TE	0
+Lance Long, FA WR	0
+Chad Simpson, FA RB	0
+J.J. Finley, FA TE	0
+Lynell Hamilton, FA RB	0
+Matthew Mulligan, GB TE	0
+Connor Barth*, TB K  IR	0
+Jehuu Caulcrick, FA RB	0
+Mike Cox, FA RB	0
+Bruce Hall, FA RB	0
+Kregg Lumpkin, FA RB	0
+Taj Smith, FA WR	0
+Jonathan Stupar, FA TE	0
+Nate Hughes, FA WR	0
+Matt Lawrence, FA RB	0
+D.J. Hall, FA WR	0
+Darnell Jenkins, FA WR	0
+Evan Moore, FA TE	0
+Lance Ball, Den RB	0
+Darius Reynaud, Ten RB	0
+Albert Young, FA RB	0
+Anthony Armstrong, Dal WR	0
+Stefan Logan, FA RB	0
+Sam Swank, FA K	0
+Rhett Bomar, FA QB	0
+Tom Brandstater, FA QB	0
+Hunter Cantwell, FA QB	0
+Rudy Carpenter, FA QB	0
+Nate Davis, FA QB	0
+Brian Hoyer, Cle QB	0
+Stephen McGee, Hou QB	0
+Curtis Painter, NYG QB	0
+John Parker Wilson, Pit QB	0
+Drew Willy, FA QB	0
+Kahlil Bell, FA RB	0
+James Davis, FA RB	0
+Herb Donaldson, FA RB	0
+Tony Fiammetta, Chi RB	0
+P.J. Hill, FA RB	0
+Jeremiah Johnson, Den RB	0
+Ian Johnson, FA RB	0
+David Johnson, Pit TE	0
+Gartrell Johnson, FA RB	0
+Quinn Johnson, Ten RB	0
+Jorvorskie Lane, Mia RB	0
+Marcus Mailei, FA RB	0
+Devin Moore, FA RB	0
+Steve Johnson, Buf WR	128
+Tony Romo, Dal QB  Q	284
+Andre Brown, NYG RB	113
+T.Y. Hilton, Ind WR	126
+Danario Alexander, SD WR	128
+Johnathan Franklin, GB RB	119
+Miles Austin, Dal WR	118
+DeAngelo Williams, Car RB	120
+Kyle Rudolph, Min TE	98
+Mike Williams, TB WR	123
+Giovani Bernard, Cin RB	114
+Owen Daniels, Hou TE	98
+Eli Manning, NYG QB	232
+Ryan Williams, Ari RB	102
+Greg Olsen, Car TE	102
+Ben Roethlisberger, Pit QB  P	221
+Isaiah Pead, StL RB  SSPD	113
+Lance Moore, NO WR	117
+Kenny Britt, Ten WR	93
+Mark Ingram, NO RB	103
+Seahawks D/ST D/ST	171
+Mikel Leshoure, Det RB  P	101
+Sidney Rice, Sea WR	118
+Antonio Gates, SD TE	99
+Emmanuel Sanders, Pit WR	110
+Denarius Moore, Oak WR	115
+Bryce Brown, Phi RB	75
+Chris Givens, StL WR	117
+Joe Flacco, Bal QB	215
+Bernard Pierce, Bal RB	69
+49ers D/ST D/ST	177
+Josh Gordon, Cle WR  SSPD	118
+Brandon Myers, NYG TE	98
+Jonathan Stewart*, Car RB  O	73
+Fred Jackson, Buf RB  P	69
+Michael Vick, Phi QB	198
+Ben Tate, Hou RB	70
+Michael Floyd, Ari WR	84
+Brandon Lloyd, FA WR	111
+Texans D/ST D/ST	166
+Chris Ogbonnaya, Cle RB	0
+Cedric Peerman*, Cin RB  O	0
+Kory Sheets, FA RB	0
+Tyrell Sutton, FA RB	0
+Marcus Thigpen, Mia RB	0
+Javarris Williams, FA RB	0
+Travis Beckum, FA TE	0
+Chase Coffman, Atl TE	0
+Davon Drew, FA TE	0
+Dan Gronkowski, Cle TE	0
+Anthony Hill, FA TE	0
+Cornelius Ingram, FA TE	0
+Cameron Morrah, FA TE	0
+Rob Myers, FA TE	0
+Shawn Nelson, FA TE	0
+Bear Pascoe, NYG TE	0
+Ryan Purvis, FA TE	0
+Richard Quinn, Cin TE	0
+Kory Sperry, Ari TE	0
+Eddie Williams, FA RB	0
+Ramses Barden, NYG WR	0
+Deon Butler, SD WR	0
+Demetrius Byrd, FA WR	0
+Austin Collie, FA WR	0
+Quan Cosby, FA WR	0
+Michael Crabtree*, SF WR  O	0
+Jarett Dillard, Ari WR	0
+Dominique Edison, FA WR	0
+Brooks Foster, FA WR	0
+Juaquin Iglesias, FA WR	0
+Manuel Johnson, FA WR	0
+Jordan Norwood, Cle WR  P	0
+Greg Orton, Den WR	0
+Brian Robiskie, Det WR	0
+Sammie Stroughter, FA WR	0
+Brandon Tate, Cin WR  P	0
+Mike Thomas, Det WR	0
+Patrick Turner, FA WR	0
+Derrick Williams, FA WR	0
+Aaron Brown, FA RB	0
+Freddie Brown, FA WR	0
+Johnny Knox, FA WR	0
+Zach Miller, TB TE	0
+John Nalbone, FA TE	0
+Keith Null, FA QB	0
+Jake O'Connell, FA TE  P	0
+Frank Summers, Buf RB	0
+Fui Vakapuna, FA RB	0
+Brock Bolen, Cle RB	0
+Curtis Brinkley, FA RB	0
+Charly Martin, SF WR	0
+Will Ta'ufo'ou, Jac RB	0
+Kevin Brock, KC TE	0
+Tyler Grisham, FA WR	0
+Brit Miller, FA RB	0
+Chris Pressley, Cin RB	0
+Robert Agnone, FA TE	0
+Nick Miller, Phi WR	0
+Colin Cloherty, Atl TE	0
+Britt Davis, FA WR	0
+Kole Heckendorf, FA WR	0
+John Matthews, FA WR	0
+Zach Potter, StL TE	0
+Swayze Waters, FA K	0
+Pat Williams, FA WR	0
+Kareem Huggins, FA RB	0
+Darrel Young, Wsh RB	0
+Eron Riley, FA WR	0
+Isaiah Williams, Oak WR	0
+Ed Gant, FA WR	0
+Antone Smith, Atl RB	0
+Chris Jennings, FA RB	0
+Tristan Davis, Wsh RB	0
+Julius Pruitt, FA WR	0
+Martell Mallett, FA RB	0
+Chad Hall, SF WR	0
+Clint Stitser, FA K	0
+Todd Carter, FA K	0
+Jimmy Clausen, Car QB	0
+Tony Pike, FA QB	0
+Dan LeFevour, FA QB	0
+Jahvid Best, Det RB	0
+Anthony Dixon, SF RB	0
+Arrelious Benn, Phi WR  P	0
+Damian Williams, Ten WR	0
+Mardy Gilyard, NYJ WR	0
+Carlton Mitchell, TB WR	0
+Taylor Price, Jac WR	0
+Marcus Easley, Buf WR  P	0
+Dezmon Briscoe, Wsh WR	0
+Aaron Hernandez, FA TE	0
+Armanti Edwards, Car WR	0
+Terrence Austin, Det WR	0
+Levi Brown, FA QB	0
+Nate Byham, TB TE	0
+Sean Canfield, FA QB	0
+Mike Caussin, Buf TE  P	0
+John Conner, Cin RB	0
+Jonathan Crompton, FA QB	0
+Ryan D'Imperio, NYG RB	0
+Dorin Dickerson, Buf TE	0
+Jim Dray, Ari TE	0
+Brody Eldridge, Chi TE	0
+Dedrick Epps, NYJ TE	0
+David Gettis, Car WR	0
+Clay Harbor, Phi TE	0
+Trindon Holliday, Den WR	0
+Mike Kafka, Jac QB	0
+Deji Karim, Hou RB	0
+Jameson Konz, FA TE	0
+Erik Lorig, TB RB	0
+Marc Mariani, Ten WR  P	0
+Anthony McCoy, Sea TE  IR	0
+Kerry Meier, FA WR	0
+Dennis Morris, FA TE	0
+Fendi Onobun, Chi TE	0
+David Reed, Bal WR	0
+Zac Robinson, Cin QB  P	0
+Charles Scott, FA RB	0
+Mickey Shuler, Buf TE	0
+Rusty Smith, Ten QB	0
+Tim Toone, Atl WR	0
+Joe Webb, Min WR	0
+Kyle Williams, SF WR	0
+Stephen Williams, Sea WR	0
+Jeremy Horne, NYG WR	0
+Tervaris Johnson, FA RB	0
+Greg Mathews, FA WR	0
+Brandon Minor, FA RB	0
+Antonio Robinson, FA WR	0
+Seyi Ajirotutu, FA WR	0
+Richie Brockel, Car TE	0
+Carlos Brown, FA RB	0
+Tim Buckley, FA WR	0
+Duke Calhoun, Oak WR  Q	0
+Richard Goodman, SD WR	0
+Chris Gronkowski, SD RB	0
+Max Hall, FA QB	0
+Rashawn Jackson, FA RB	0
+Stafon Johnson, FA RB	0
+Donald Jones, Buf WR	0
+Kevin Jurovich, FA WR	0
+Max Komar, FA WR	0
+Thad Lewis, Det QB	0
+Garrett Lindholm, FA K	0
+Jamie McCoy, Pit TE	0
+Shawnbrey McNeal, FA RB	0
+Lonyae Miller, FA RB	0
+Marlon Moore, SF WR	0
+Dimitri Nance, FA RB	0
+David Nelson, Cle WR	0
+Michael Palmer, Sea TE	0
+Aaron Pettrey, FA K	0
+Naaman Roosevelt, Cle WR	0
+Alfonso Smith, Ari RB	0
+Juamorris Stewart, FA WR	0
+Keith Toston, Jac RB	0
+Verran Tucker, FA WR	0
+Roberto Wallace, Ten WR	0
+Bryan Walters, Sea WR	0
+Jeremy Williams, FA WR	0
+Jarrett Brown, FA QB	0
+Shay Hodge, FA WR	0
+Jeron Mastrud, Oak TE	0
+Preston Parker, NO WR	0
+Jevan Snead, FA QB	0
+Keiland Williams, Wsh RB	0
+Matt Clapp, FA RB	0
+Richard Dickson, FA TE	0
+Brandon James, FA WR	0
+Javarris James, Ari RB  SSPD	0
+Michael Moore, FA WR	0
+Quinn Porter, FA RB	0
+Brett Swenson, FA K	0
+Chastin West, FA WR	0
+Blair White, FA WR	0
+Trent Guy, FA WR	0
+Nathan Overbay, FA TE	0
+Manase Tonga, FA RB	0
+Chris Brooks, FA WR	0
+Dominique Curry, Car WR	0
+Damola Adeniji, FA WR	0
+Steve Maneri, Chi TE	0
+Andy Tanner, NO WR	0
+Harvey Unga, Chi RB	0
+Andre' Anderson, FA RB	0
+Josh Vaughan, Atl RB	0
+James Develin, NE RB	0
+Rod Windsor, FA WR	0
+Tyler Clutts, Hou RB	0
+Fabrizio Scaccia, FA K	0
+Chris Carter, FA WR	0
+Caz Piurowski, FA TE	0
+Andy Fantuz, FA WR	0
+Wes Lyons, FA WR	0
+Emmanuel Arceneaux, FA WR	0
+Ryan Perrilloux, FA QB	0
+Titus Young, FA WR	0
+Austin Pettis, StL WR	0
+Jerrel Jernigan, NYG WR	0
+Adrian Peterson, Min RB	279
+Arian Foster*, Hou RB  O	261
+Marshawn Lynch, Sea RB	233
+Ray Rice, Bal RB	232
+Doug Martin, TB RB	226
+Jamaal Charles, KC RB	228
+C.J. Spiller, Buf RB	227
+Trent Richardson, Cle RB	226
+Alfred Morris, Wsh RB	219
+Calvin Johnson, Det WR	236
+LeSean McCoy, Phi RB	200
+Aaron Rodgers, GB QB	352
+A.J. Green, Cin WR  P	201
+Drew Brees, NO QB	334
+Steven Jackson, Atl RB	192
+Dez Bryant, Dal WR  P	202
+Matt Forte, Chi RB	182
+Stevan Ridley, NE RB  P	181
+Peyton Manning, Den QB	324
+Brandon Marshall, Chi WR  P	196
+Frank Gore, SF RB  P	178
+Julio Jones, Atl WR	186
+Chris Johnson, Ten RB	172
+Demaryius Thomas, Den WR	180
+Tom Brady, NE QB	325
+Percy Harvin*, Sea WR  O	177
+Maurice Jones-Drew, Jac RB  P	172
+Roddy White, Atl WR	177
+Jimmy Graham, NO TE  P	174
+Vincent Jackson, TB WR	175
+Cam Newton, Car QB	323
+David Wilson, NYG RB  P	164
+Andre Johnson, Hou WR	177
+Darren McFadden, Oak RB	168
+Randall Cobb, GB WR	171
+Larry Fitzgerald, Ari WR	167
+Montee Ball, Den RB	162
+Wes Welker, Den WR	154
+Darren Sproles, NO RB	154
+Victor Cruz, NYG WR	152
